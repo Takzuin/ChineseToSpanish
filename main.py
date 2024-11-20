@@ -21,7 +21,7 @@ ventana.title(" ")
 ventana.geometry("500x400")
 
 # Cambiar el icono de la ventana
-ventana.iconbitmap('C:/Python310/TraductorDeChino/china.ico')  # Asegúrate de que la ruta al archivo .ico sea correcta
+#ventana.iconbitmap('C:/Python310/TraductorDeChino/china.ico')  # Asegúrate de que la ruta al archivo .ico sea correcta
 
 # Centrar la ventana en la pantalla
 ventana.eval('tk::PlaceWindow . center')
